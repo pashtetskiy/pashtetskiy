@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**pashtetskiy/pashtetskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer currently studying at WSB Merito University and diving deep into ASP.NET Core.
+I'm enthusiastic about building web applications and always eager to learn and explore new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+Right now, I'm working on a pet project focused on creating a cinema website using ASP.NET Core.
+This project allows me to apply my skills in web development and explore various aspects of building dynamic
+and interactive web applications.
+
+## What You'll Find Here
+
+- **Collaboration Opportunities**: I'm open to collaborations and contributions to open-source projects. Feel free to reach out if you're interested in working together!
+
+## Get in Touch
+
+- Connect with me on [telegram](https://t.me/ppashtetskiy)
+
+Thanks for visiting my profile, and happy coding!
